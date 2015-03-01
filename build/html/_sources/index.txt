@@ -6,7 +6,17 @@
 Τεκμηρίωση Συστημάτων ΗΥ Τμ. Μαθηματικών & Εφ. Μαθ.
 ===================================================
 
-* :ref:`printers`
-* :ref:`email`
+Contents:
 
+.. toctree::
+   :maxdepth: 2
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
