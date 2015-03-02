@@ -6,17 +6,15 @@
 Τεκμηρίωση Συστημάτων ΗΥ Τμ. Μαθηματικών & Εφ. Μαθ.
 ===================================================
 
-Contents:
+Στη σελίδα αυτή θα βρείτε πληροφορίες και βοήθεια για
+διάφορα θέματα που αφορούν τα στυστήματα υπολογιστών
+του 'Link Τμήματος Μαθηματικών & Εφ. Μαθ. <http://www.math.uoc.gr>`_.
 
-.. toctree::
-   :maxdepth: 2
+| These lines are
+| broken exactly like in
+| the source file.
 
+* :ref:`printers`
+* :ref:`email`
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
