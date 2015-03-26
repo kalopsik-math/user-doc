@@ -211,11 +211,20 @@ latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
 #'papersize': 'letterpaper',
 
+'papersize' : 'a4paper',
+
 # The font size ('10pt', '11pt' or '12pt').
 #'pointsize': '10pt',
 
+'pointsize' : '11pt',
+
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
+
+'preamble' : '''
+\usepackage[bookmarks,colorlinks,unicode]{hyperref}
+\setmainfont[Mapping=tex-text]{GFS Artemisia}
+'''
 
 # Latex figure (float) alignment
 #'figure_align': 'htbp',
@@ -248,6 +257,8 @@ latex_documents = [
 
 # If false, no module index is generated.
 #latex_domain_indices = True
+
+#latex_docclass = 'article'
 
 
 # -- Options for manual page output ---------------------------------------
