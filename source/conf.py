@@ -67,7 +67,7 @@ release = ''
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'el'
+language = 'en'
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
@@ -123,10 +123,10 @@ html_theme = 'sphinxdoc'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = u'Δοκιμαστικός Τίτλος'
+html_title = u'Τμ. Μαθηματικών & Εφ. Μαθ.'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-#html_short_title = u'Δοκιμαστικός Τίτλος'
+html_short_title = u'Τμ. Μαθηματικών & Εφ. Μαθ.'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -157,6 +157,9 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
+html_sidebars = {
+    '**': ['searchbox.html', 'globaltoc.html', 'relations.html']
+}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
