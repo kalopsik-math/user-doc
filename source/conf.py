@@ -224,10 +224,10 @@ latex_elements = {
 # Additional stuff for the LaTeX preamble.
 #'preamble': '',
 
-'preamble' : '''
-\usepackage[bookmarks,colorlinks,unicode]{hyperref}
-\setmainfont[Mapping=tex-text]{GFS Artemisia}
-'''
+#'preamble' : '''
+#\usepackage[bookmarks,colorlinks,unicode]{hyperref}
+#\setmainfont[Mapping=tex-text]{GFS Artemisia}
+#'''
 
 # Latex figure (float) alignment
 #'figure_align': 'htbp',
@@ -240,6 +240,8 @@ latex_documents = [
   (master_doc, 'DocumentationforUsers.tex', u'Documentation for Users Documentation',
    u'Dimitris Kalopsikakis', 'manual'),
 ]
+
+latex_toplevel_sectioning='section'
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
@@ -262,7 +264,7 @@ latex_documents = [
 #latex_domain_indices = True
 
 #latex_docclass = 'article'
-
+#latex_docclass = 'article'
 
 # -- Options for manual page output ---------------------------------------
 

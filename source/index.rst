@@ -13,10 +13,12 @@
    :maxdepth: 1
 
 
-   Πώς υποβάλλουμε κάποιο αίτημα <HowToTicket>
+   Πώς αναζητούμε βοήθεια <HowToTicket>
    Πώς σκανάρουμε στο φωτοτυπικό <HowToScan>
    Πώς κάνουμε σύνδεση VPN <HowToVPN>
    Πώς συνδεόμαστε στο ασύρματο δίκτυο <HowToWifi>
+   Τηλεδιάσκεψη με epresence <HowToEpresence>
+
 ..   Υπηρεσίες <services>
 ..   Υοποστήριξη <support>
 ..   Συχνές Ερωτήσεις <faq>
