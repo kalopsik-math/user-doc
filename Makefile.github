@@ -1,0 +1,27 @@
+
+DATE=`date +%Y%m%d%H%M%S`
+
+.PHONY: all
+all: commit
+
+.PHONY: add
+add: 
+	git add --all .
+
+# Commiting with a timestamp for a message
+.PHONY: commit-m
+commit: add
+	git commit -m $(DATE)
+
+# Commiting with custom notification message
+.PHONY: commit
+commit-m: add
+	git commit
+
+.PHONY: push
+push:
+	git push -u origin master
+
+.PHONY: pull
+pull:
+	git pull
