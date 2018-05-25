@@ -26,7 +26,7 @@
 ..   Συχνές Ερωτήσεις <faq>
 
 
-Τα κείμενα αυτό σε άλλες μορφές: :download:`[epub]<UserDoc.epub>`, :download:`[signle html] <UserDoc-Single.zip>`
+Τα κείμενα αυτό σε άλλες μορφές: :download:`[epub]<UserDoc.epub>`, :download:`[signle html] <UserDoc-Single.zip>`, :download:`[text] <UserDoc-Text.zip>`
 
    
    
