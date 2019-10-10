@@ -53,7 +53,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Τεκμηρίωση Συστημάτων Τμ. Μαθηματικών & Εφ. Μαθ.'
-copyright = u'2018, Τμήμα Μαθηματικών & Εφ. Μαθ.'
+copyright = u'2019, Τμήμα Μαθηματικών & Εφ. Μαθ.'
 author = u'Δημήτρης Καλοψικάκης'
 
 # The version info for the project you're documenting, acts as replacement for

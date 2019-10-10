@@ -17,15 +17,15 @@
 * apt-get install texlive-full
 * apt-get install texmaker
 
-Σε Generic Linux
-##################
+Σε οποιοδήποτε Linux
+######################
 
 #. Download texlive iso image
 #. mount iso image
 #. Install texlive
 #. Download and install Texmaker
 
-(όσοι επιλέγουνε αυτή την περίπτωση, δεν χρειάζονται παραπάνω βοήθεια).
+(για όσους επιλέγουν αυτή την περίπτωση, παραπάνω πληροφορία είναι πλεονασμός).
    
 
 Σε Windows

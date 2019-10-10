@@ -3,21 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. Τεκμηρίωση Συστημάτων ΗΥ Τμ. Μαθηματικών & Εφ. Μαθ.
-.. ===================================================
 
-.. Εισαγωγή
-.. ===========
+Τεκμηρίωση Συστημάτων H/Y
+===================================================
 
 .. toctree::
    :maxdepth: 1
-
 
    Πώς αναζητούμε βοήθεια <HowToTicket>
    Πώς σκανάρουμε στο φωτοτυπικό <HowToScan>
    Πώς κάνουμε σύνδεση VPN <HowToVPN>
    Πώς συνδεόμαστε στο ασύρματο δίκτυο <HowToWifi>
-   Τηλεδιάσκεψη με epresence <HowToEpresence>
    Πώς εγκαθιστούμε LaTeX <HowToInstallLaTeX>
 
 
