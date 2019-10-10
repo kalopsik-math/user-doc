@@ -14,11 +14,11 @@
 
 
    Πώς αναζητούμε βοήθεια <HowToTicket>
-   Πώς Εκτυπώνουμε <HowToPrint>
    Πώς σκανάρουμε στο φωτοτυπικό <HowToScan>
    Πώς κάνουμε σύνδεση VPN <HowToVPN>
    Πώς συνδεόμαστε στο ασύρματο δίκτυο <HowToWifi>
    Τηλεδιάσκεψη με epresence <HowToEpresence>
+   Πώς εγκαθιστούμε LaTeX <HowToInstallLaTeX>
 
 
 ..   Υπηρεσίες <services>

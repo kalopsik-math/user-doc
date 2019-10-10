@@ -132,6 +132,7 @@ html_theme = 'sphinx_rtd_theme'
 # "<project> v<release> documentation".
 html_title = u'Τμ. Μαθηματικών & Εφ. Μαθ.'
 
+
 # A shorter title for the navigation bar.  Default is the same as html_title.
 html_short_title = u'Τμ. Μαθηματικών & Εφ. Μαθ.'
 
