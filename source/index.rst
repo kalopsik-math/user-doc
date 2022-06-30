@@ -10,11 +10,10 @@
 .. toctree::
    :maxdepth: 1
 
+   Τρόπος Διεκπεραίωησης Εργασιών και Αιτημάτων <PolicyTicket>
    Πώς αναζητούμε βοήθεια <HowToTicket>
-   Πώς σκανάρουμε στο φωτοτυπικό <HowToScan>
-   Πώς κάνουμε σύνδεση VPN <HowToVPN>
-   Πώς συνδεόμαστε στο ασύρματο δίκτυο <HowToWifi>
    Πώς εγκαθιστούμε LaTeX <HowToInstallLaTeX>
+   Πώς μεταφέρουμε μεγάλα αρχεία <HowToTransfer>
 
 
 ..   Υπηρεσίες <services>
@@ -22,7 +21,7 @@
 ..   Συχνές Ερωτήσεις <faq>
 
 
-Τα κείμενα αυτό σε άλλες μορφές: :download:`[epub]<UserDoc.epub>`, :download:`[signle html] <UserDoc-Single.zip>`, :download:`[text] <UserDoc-Text.zip>`
+Τα κείμενα αυτά σε :download:`[pdf] <MathSysHandbook.pdf>`
 
    
    

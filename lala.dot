@@ -1,0 +1,29 @@
+   digraph TicketProcess {
+   requester -> open;
+   open -> assignment;
+   assignment -> technician;   
+   technician -> work;
+       
+   subgraph cluster {
+       color=blue;
+       /*label = "Process";*/
+       work -> followup;
+       followup -> while;
+       while -> work [label="No"];
+   }
+
+   while->close [label="Yes"];
+   requester -> followup [dir="both"];
+   /* followup -> requester;*/
+
+   
+   
+   
+   open [shape=oval];
+   close [shape=oval];
+   while [shape=diamond; label="work\n done?"];
+   work  [shape=rectangle];
+   followup [shape=note];
+   requester [shape=underline, pos="-10,-10!"];
+   technician [shape=underline];   
+   }
