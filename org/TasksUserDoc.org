@@ -1,8 +1,0 @@
-
-* UserDocTasks
-
-** TODO Οδηγίες για epresence στα Αγγλικά
-
-** TODO Συμπλήρωση οδηγιών epresence με screenshots .
-
-** TODO HowToEpresence: παράγραφος, γιατί το epresence είναι απαραίτητο για συνεδριάσεις εκλογών
