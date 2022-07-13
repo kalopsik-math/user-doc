@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
  
-project = 'MathSys Handbook'
+project = 'MathSys Users Handbook'
 copyright = '2022, Δημήτρης Καλοψικάκης'
 author = 'Δημήτρης Καλοψικάκης'
 
