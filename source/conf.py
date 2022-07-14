@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
  
-project = 'MathSys Users Handbook'
+project = 'MathUOC Users Handbook'
 copyright = '2022, Δημήτρης Καλοψικάκης'
 author = 'Δημήτρης Καλοψικάκης'
 
@@ -77,7 +77,7 @@ html_static_path = ['_static']
 html_title = ''
 
 latex_documents = [
-    ('index', 'MathSysHandbook.tex', 'Τεκμηρίωση Υπολ. Συστημάτων και Υπηρεσιών', f'Δημήτρης Καλοψικάκης', 'howto', True),
+    ('index', 'MathUsersHandbook.tex', 'Τεκμηρίωση Υπολ. Συστημάτων και Υπηρεσιών', f'Δημήτρης Καλοψικάκης', 'howto', True),
     ]
 
 numfig = True
