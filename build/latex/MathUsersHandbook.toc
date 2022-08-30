@@ -16,6 +16,6 @@
 \contentsline {subsection}{\numberline {4.1}1ο Τρόπος: UoCTransfer (ΚΥΥΤΠΕ)}{6}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}2ος Τρόπος: OneDrive (Microsoft)}{6}{subsection.4.2}%
 \contentsline {section}{\numberline {5}Πώς δεσμεύουμε μια Εικονική Αίθουσα (Zoom)}{6}{section.5}%
-\contentsline {subsection}{\numberline {5.1}1ος Τρόπος: Επιλέγουμε αίθουσα και τη δεσμεύουμε}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.1}1ος Τρόπος: Επιλέγουμε αίθουσα και τη δεσμεύουμε}{7}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}2ος Τρόπος: Επιλέγουμε ημέρα/ώρα}{7}{subsection.5.2}%
 \contentsline {subsection}{\numberline {5.3}3ος Τρόπος: Αναζήτηση ελεύθερης «Αίθουσας» για συγκεκριμένη ημέρα/ώρα}{7}{subsection.5.3}%
