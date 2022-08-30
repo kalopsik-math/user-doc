@@ -19,6 +19,7 @@
    Πώς αναζητούμε βοήθεια <HowToTicket>
    Πώς εγκαθιστούμε LaTeX <HowToInstallLaTeX>
    Πώς μεταφέρουμε μεγάλα αρχεία <HowToTransfer>
+   Πώς δεσμεύουμε μια εικονική αίθουσα (Zoom) <HowToZoom>
 
 
 ..   Υπηρεσίες <services>
