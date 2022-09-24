@@ -17,6 +17,7 @@
 
    Τρόπος Διεκπεραίωησης Εργασιών και Αιτημάτων <PolicyTicket>
    Πώς αναζητούμε βοήθεια <HowToTicket>
+   Πώς εκτυπώνουμε <HowToPrint>
    Πώς εγκαθιστούμε LaTeX <HowToInstallLaTeX>
    Πώς μεταφέρουμε μεγάλα αρχεία <HowToTransfer>
    Πώς δεσμεύουμε μια εικονική αίθουσα (Zoom) <HowToZoom>
