@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
  
 project = 'MathUOC Users Handbook'
-copyright = '2022, Δημήτρης Καλοψικάκης'
+copyright = '2023, Δημήτρης Καλοψικάκης'
 author = 'Δημήτρης Καλοψικάκης'
 
 
